@@ -1,6 +1,6 @@
 """CSC350 Lab 3: NumPy hands-on
-Name:
-Roll number:
+Name:Abdulrhman
+Roll number:24_uon_0367
 
 Run this file after every task:  python lab3_numpy.py
 Commit after every task (git add, git commit -m "Task N done").
